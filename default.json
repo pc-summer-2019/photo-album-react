@@ -1,0 +1,144 @@
+{
+  "albums": [
+    {
+      "id": 1,
+      "name": "Samoa",
+      "coverPhoto": "http://atlantidaen.opennemas.com/asset/thumbnail,630,340,center,center/media/atlantidaen/images/2018/03/29/2018032910402939335.jpg" 
+    },
+    {
+      "id": 2,
+     "name": "Greece",
+     "coverPhoto": "https://cdn.pixabay.com/photo/2016/08/15/08/22/greece-1594689__340.jpg" 
+    },
+    {
+      "id": 3,
+      "name": "Egypt",
+      "coverPhoto": "https://static.planetminecraft.com/files/resource_media/screenshot/1149/ancient-egypt-pyramids_995172.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Spain",
+      "coverPhoto": "https://cdn.pixabay.com/photo/2016/10/18/21/16/plaza-espana-1751442__340.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Italy",
+      "coverPhoto": "https://cdn.pixabay.com/photo/2019/03/28/14/49/italy-4087321__340.jpg"
+    },
+    {
+      "id": 6,
+      "name": "New Zealand",
+      "coverPhoto": "https://www.triptipedia.com/tip/img/lLsxkd4MC-510.jpg"
+    }
+  ],
+  "photos": [
+    {
+      "id": 1,
+      "name": "American Samoa",
+      "imgURL": "https://www.mirror.co.uk/incoming/article8560528.ece/ALTERNATES/s510b/0_PAY-American-Samoa-South-Pacific-Pacific.jpg",
+      "albumId": 1
+    },
+    {
+      "id": 2,
+      "name": "Upolu",
+      "imgURL": "http://tripsical.com/wp-content/uploads/2017/02/Samoa_Adventure_To-Sua-Ocean-Trench_Image1-Visual-Hunt.jpg",
+      "albumId": 1
+    },
+    {
+      "id": 3,
+      "name": "Resort Side",
+      "imgURL": "https://c.pxhere.com/photos/fb/84/resort_samoa_swimming_pool_palm_pool_tree_tourism_holiday-1245515.jpg!s",
+      "albumId": 1
+    },
+    {
+      "id": 4,
+      "name": "Fisher Boat",
+      "imgURL": "https://media.istockphoto.com/photos/fishing-boat-in-chios-island-greece-picture-id868243504?k=6&m=868243504&s=170667a&w=0&h=xwqtycCb1HrBVZTXWloMzd5fL82ME_8qbrZA-S-NW44=",
+      "albumId": 2
+    },
+    {
+      "id": 5,
+      "name": "Santorini at Night",
+      "imgURL": "http://www.vigostore.ro/blog/wp-content/uploads/2014/07/5302b6bb71a17modern_vacation_rentals_32315_mykonos_greece_ext5.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 6,
+      "name": "Ruins in Athens",
+      "imgURL": "https://st2.travelxp.com/images/greece/athens,-greece_510x340.jpg",
+      "albumId": 2
+    },
+    {
+      "id": 7,
+      "name": "Palace in Egypt",
+      "imgURL": "https://www.triptipedia.com/tip/img/pm24Jug2O-510.png",
+      "albumId": 3
+    },
+    {
+      "id": 8,
+      "name": "Fortress in Egypt",
+      "imgURL": "https://media.istockphoto.com/photos/the-shali-the-ancient-fortress-of-siwa-siwa-oasis-egypt-picture-id1036809220?k=6&m=1036809220&s=170667a&w=0&h=glPso03OOUdG1HrLAC-a5sQpNd99OdX8vbXI6iyh9bw=",
+      "albumId": 3
+    },
+    {
+      "id": 9,
+      "name": "Pyramid in Egypt",
+      "imgURL": "https://natalieramos.files.wordpress.com/2011/02/cheops-pyramid_giza_egypt.jpg",
+      "albumId": 3
+    },
+    {
+      "id": 10,
+      "name": "Catalonia",
+      "imgURL": "https://i.pinimg.com/originals/18/a5/df/18a5df3e8238e9b4040649a546673627.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 11,
+      "name": "Barcelona at Night",
+      "imgURL": "https://www.uniqueliving.com/public/images/locations/grid/barcelona-residential-region.jpg",
+      "albumId": 4
+    },
+    {
+      "id": 12,
+      "name": "Random Beach in Spain",
+      "imgURL": "https://i2.wp.com/www.klaudiascorner.net/wp-content/uploads/2016/07/booked-810061_1280.jpg?resize=510%2C340&ssl=1",
+      "albumId": 4
+    },
+    {
+      "id": 13,
+      "name": "Rome",
+      "imgURL": "https://st2.travelxp.com/images/italy/rome/rome-colosseum_510x340.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 14,
+      "name": "City in Italy",
+      "imgURL": "https://www.italytraveltours.biz/wp-content/uploads/2019/01/CinqueTerreItaly2.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 15,
+      "name": "Venice",
+      "imgURL": "https://s3.eu-west-2.amazonaws.com/tourhound/pages/blog/a-romantic-trio-:-Touring-the-classic-Italian-cities-of-Venice-Florence-&-Rome/Italy_1.jpg",
+      "albumId": 5
+    },
+    {
+      "id": 16,
+      "name": "View of Queenstown",
+      "imgURL": "https://st2.travelxp.com/images/new%20zealand/queenstown/queenstown-aerial-view_510x340.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 17,
+      "name": "Trail in New Zealand",
+      "imgURL": "http://www.commongroundsar.com/wp-content/uploads/2018/02/new-zealand-trails.jpg",
+      "albumId": 6
+    },
+    {
+      "id": 18,
+      "name": "National Park NZ",
+      "imgURL": "https://cdn.pixabay.com/photo/2016/11/07/14/24/fiordland-national-park-1805937__340.jpg",
+      "albumId": 6
+    }
+  ]
+}

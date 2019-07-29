@@ -1,0 +1,53 @@
+html {box-sizing:border-box;}
+*, *::before, *::after {box-sizing:inherit;}
+
+body {
+  font-family:sans-serif;
+}
+
+#container {
+  width:900px;
+  margin:auto;
+}
+
+header {
+  background: gray;
+  padding:20px;
+}
+
+h1 {
+  text-align:center;
+}
+
+.albumList, .photoList {
+  display:flex;
+  flex-wrap:wrap;
+  justify-content: center;
+}
+
+.albumLink, .photoLink {
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  margin:30px;
+  border:1px solid gray;
+}
+
+.albumLink img, .photoLink img {
+  max-width:200px;
+}
+
+.albumWrap {
+  display:flex;
+}
+
+.photo {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+}
+
+.photo a {
+  font-size:100px;
+  text-decoration:none;
+}
